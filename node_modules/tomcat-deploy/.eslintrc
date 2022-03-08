@@ -1,0 +1,20 @@
+{
+  "plugins": [
+    "filenames",
+  ],
+  "parserOptions": {
+    "ecmaVersion": 7,
+    "ecmaFeatures": {
+      "experimentalObjectRestSpread": true,
+      "jsx": true
+    }
+  },
+  "extends": "airbnb",
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "rules": {
+    "import/no-extraneous-dependencies": 0
+  }
+}

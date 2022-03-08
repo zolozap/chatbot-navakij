@@ -1,0 +1,9 @@
+export const deployPath = '/manager/text/deploy';
+export const hostname = '';
+export const listPath = '/manager/text/list';
+export const login = '';
+export const password = '';
+export const path = '';
+export const port = '80';
+export const protocol = 'http:';
+export const undeployPath = '/manager/text/undeploy';
