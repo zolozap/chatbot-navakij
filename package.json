@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "LINE bot return messages",
   "main": "index.js",
+  "homepage": "localhost:8080/chatbot",
   "scripts": {
     "start": "node .",
     "dev": "nodemon index.js --exec babel-node --preset es2015,stage-2",
